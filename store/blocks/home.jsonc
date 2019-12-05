@@ -2,10 +2,10 @@
   "store.home": { 
     "blocks": [
       "flex-layout.row",
-      "flex-layout.col"
+      "flex-layout.col",
+      "shelf"
     ]
   },
-
   "flex-layout.row":{
     "children": [
       "info-card#rethink",
