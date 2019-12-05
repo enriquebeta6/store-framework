@@ -3,8 +3,8 @@
   font-size: 2.25rem;
   border: 2px solid black;
   padding: 24px;
-  color: #000;
-  font-weight: 700;
+  color: black;
+  font-weight: bold;
 }
 
 .infoCardContainer {
@@ -21,9 +21,7 @@
 
 .infoCardCallActionContainer :global(.vtex-button):hover {
   color: gray;
-  background-color: #fff;
-  border: transparent;
-}
+  background-color: white;
 
 .infoCardContainer--vintage {
   background-color: #EDCFD1;
